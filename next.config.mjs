@@ -3,7 +3,7 @@ const nextConfig = {
 redirects: async () => [
      {
         source: '/',
-        destination: 'https://ru.vishnyaproperties.com',
+        destination: 'https://vishnyaproperties.com',
         permanent: true,
       },
   ],
